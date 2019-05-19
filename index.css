@@ -2,9 +2,15 @@ body {
     background-color: #181a1b;
 }
 
-.row {
+.center {
     display: flex;
     justify-content: center;
+}
+
+.row {
+    display: flex;
+    width: 1130px;
+    flex-wrap: wrap;
 }
 
 .card-splash {
@@ -21,5 +27,5 @@ body {
     font-size: 2rem;
     text-align: center;
     padding: 10px 0;
-    margin: 0px 15px;
+    margin: 0px 15px 20px 15px;
 }
