@@ -9,22 +9,22 @@ body {
 
 .row {
     display: flex;
-    width: 1130px;
+    width: 1414px;
     flex-wrap: wrap;
 }
 
 .card-splash {
-    width: 250px;
-    height: 430px;
+    width: 170px;
+    height: 170px;
     border: 1px solid #7a603a;
     margin: 15px 15px 10px 15px;
 }
 
 .card-name {
-    width: 250px;
+    width: 170px;
     background-color: black;
     opacity: 0.5;
-    font-size: 2rem;
+    font-size: 1.5rem;
     text-align: center;
     padding: 10px 0;
     margin: 0px 15px 20px 15px;
